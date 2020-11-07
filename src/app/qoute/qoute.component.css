@@ -4,7 +4,7 @@ h2{
     margin: 20px;
 
 }
-input{
+input,textarea{
     border:2px solid green;
 }
 
