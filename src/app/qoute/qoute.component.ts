@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import{ MoreQuotes} from '../more-quotes';
+import { from } from 'rxjs';
 
 @Component({
   selector: 'app-qoute',
