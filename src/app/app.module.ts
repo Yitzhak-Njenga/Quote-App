@@ -10,7 +10,7 @@ import { MoreQuotesComponent } from './more-quotes/more-quotes.component';
   declarations: [
     AppComponent,
     QouteComponent,
-    MoreQuotesComponent,
+    MoreQuotesComponent
   ],
   imports: [
     BrowserModule,
