@@ -2,3 +2,11 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 
 
+
+body{
+    background-image: url(./assets/danielle-macinnes-IuLgi9PWETU-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
