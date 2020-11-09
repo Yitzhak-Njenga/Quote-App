@@ -10,7 +10,7 @@ export class QuoteComponent implements OnInit {
   quotes:Quote[]=[
     new Quote(1, 'Don’t let the noise of others’ opinions drown out your own inner voice.', 'Author: Steve Jobs',new Date(2003,3,14)),
     new Quote(2, 'Be faithful in small things because it is in them that your strength lies', 'Author: Martha Teresa',new Date(1972,7,9)),
-     ];
+    ];
 
   upVote(index) {
 
